@@ -1,6 +1,6 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: NALINIPRIYA G </h3>
-<h3>Register Number/Staff Id: TSIT031</h3>
+<h3>NAME: MOHAMMED SAFI F </h3>
+<h3>REGISTER NUMBER: 212224060156</h3>
 
 
 <h3>AIM:</h3>
