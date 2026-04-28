@@ -43,7 +43,7 @@
 
 <h3>PROGRAM</h3>
 
-```
+```python
 import random
 random.seed(1)
 class MedicinePrescribingAgent:
